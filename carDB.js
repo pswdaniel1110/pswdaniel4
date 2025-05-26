@@ -59,4 +59,3 @@ const carDB = [
     { name: "BMW 1 Series", budget: "high", bodyType: "hatchback", country: "germany", image: "https://cdn.motor1.com/images/mgl/7Ro07/s1/2020-bmw-1-series.jpg" },
     { name: "Mercedes-Benz A-Class", budget: "premium", bodyType: "hatchback", country: "germany", image: "https://cdn.motor1.com/images/mgl/0JN1R/s1/2020-mercedes-benz-a-class.jpg" }
   ];
-  
